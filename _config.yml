@@ -1,14 +1,14 @@
 
 # The name of your website.
-name: Holo Alfa
+name: xPlore.Cloud
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: xPlore.Cloud is an unique tool to quickly build and then manage a Hybrid Cloud self service portal.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: 
 
 author:
   name: Dr. Jekyll # Change this!
